@@ -21,7 +21,7 @@ Please cite this paper if you want to use it in your work,
 
 
 ## Installation
-This code is based on [DGCNN](https://github.com/WangYueFt/dgcnn) and [Pointnet2.Pytorch](https://github.com/erikwijmans/Pointnet2_PyTorch).  
+
 
 ### Requirements
 * Linux (tested on Ubuntu 14.04/16.04)
@@ -54,5 +54,5 @@ python main.py --eval True --model_path 'pretrained/model_1024_92.9.t7'
 ## Other information
 We will release part segmentation code later. Due to the differences of models, please contact us by email if you need the classification model(2048 input points) with 93.3% accuracy.
 
-
-
+## Acknowledgement
+This code is based on [DGCNN](https://github.com/WangYueFt/dgcnn) and [Pointnet2.Pytorch](https://github.com/erikwijmans/Pointnet2_PyTorch).  
