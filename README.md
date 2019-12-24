@@ -6,6 +6,17 @@ Mingye Xu, Zhipeng Zhou, Yu Qiao.
 <img src = './imgs/network.png' width = 800>
 
 Futher information please contact Mingye Xu (my.xu@siat.ac.cn)
+## Citation
+Please cite this paper if you want to use it in your work,
+
+@misc{xu2019geometry,
+    title={Geometry Sharing Network for 3D Point Cloud Classification and Segmentation},
+    author={Mingye Xu and Zhipeng Zhou and Yu Qiao},
+    year={2019},
+    eprint={1912.10644},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
 
 
 ## Installation
